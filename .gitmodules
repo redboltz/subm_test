@@ -1,0 +1,3 @@
+[submodule "predef"]
+	path = predef
+	url = https://github.com/boostorg/predef.git
